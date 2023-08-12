@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Hu"
+  name             : 
   avatar           : "profile.png"
   bio              : "Professor of Global Sociology at Lancaster Univerity, UK"
-  location         : " "
+  location         :
   employer         :
-  PubMed           : " "
-  googlescholar    : " "
-  email            :
+  PubMed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=FTytb8MAAAAJ&hl=en"
+  email            : "yang.hu@lancaster.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Yang-Hu-56"
   uri              :
   bitbucket        :
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-2027-8491"
