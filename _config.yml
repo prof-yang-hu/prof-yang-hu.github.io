@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "prof-yang-hu.github.io/images/profile.png"
+  avatar           : "https://prof-yang-hu.github.io/images/profile.png"
   bio              : "Professor of Global Sociology at Lancaster Univerity, UK"
   location         :
   employer         :
