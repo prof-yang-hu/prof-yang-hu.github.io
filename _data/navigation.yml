@@ -1,10 +1,11 @@
 # main links 
 main:
-  - title: "COVID-19 & Disaster Research"
-    url: /covid_19/  
 
   - title: "Publications"
     url: /publications/
+
+  - title: "COVID-19 & Disaster Research"
+    url: /covid_19/  
 
   - title: "Book"
     url: /book/    
