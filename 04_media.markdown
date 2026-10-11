@@ -5,7 +5,7 @@ menu: main
 permalink: /media/
 ---
 
-## Media & Engagement
+## Media & Public Sociology
 
 ### Op-eds
 
