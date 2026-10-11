@@ -1,5 +1,5 @@
 # Site settings for Yang Hu's academic website
-# Theme: Academic (gaalcaras/academic), with adjustments by Lukas Lehner and Burak Sonmez (MIT licence)
+# Theme: Academic (gaalcaras/academic), with adjustments by Lukas Lehner (MIT licence)
 
 title: Yang Hu
 author: Yang Hu
@@ -13,20 +13,23 @@ author_display: false
 
 # Profile links shown under the photo on the home page
 profile_links:
-  - name: Google Scholar
-    url: https://scholar.google.com/citations?user=FTytb8MAAAAJ&hl=en
   - name: UCL profile
     url: https://profiles.ucl.ac.uk/103548-yang-hu
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=FTytb8MAAAAJ&hl=en
   - name: ResearchGate
     url: https://www.researchgate.net/profile/Yang_Hu44
   - name: LinkedIn
     url: https://www.linkedin.com/in/yang-hu-b51616135/
-  - name: Bluesky
-    url: https://bsky.app/profile/yanghu.co.uk
+  - name: Weibo
+    url: https://www.weibo.com/u/2132879407
+  - name: RedNote
+    url: https://www.xiaohongshu.com/user/profile/67611f9e00000000180145eb
+    
 
 # Extra links in the top menu (open in a new tab)
 nav_ext_links:
-  - name: Publication List
+  - name: Publications
     url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=FTytb8MAAAAJ&pagesize=80&sortby=pubdate
 
 # Build settings
