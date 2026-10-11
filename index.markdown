@@ -10,7 +10,7 @@ redirect_from:
 
 I am Associate Professor in Sociology at [UCL Social Research Institute](https://profiles.ucl.ac.uk/103548-yang-hu){:target="_blank"} (2025–), where I also act as the Academic Head of Learning and Teaching, leading [interdisciplinary postgraduate education](https://www.ucl.ac.uk/ioe/departments-and-centres/ucl-social-research-institute/courses-social-research-institute/graduate-taught){:target="_blank"} across Sociology, Social Policy, Social Research Methods and Data Science.
 
-My research examines family and work changes and inequalities in a global context, including:
+My [research](https://scholar.google.com/citations?hl=en&user=FTytb8MAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} examines family and work changes and inequalities in a global context, including:
 
 1. Intersectional inequalities in family and work lives across the lines of gender, sexuality, ethnicity/race, age, migrant status, and social class.
 2. The implications of digitalisation and AI (artificial intelligence) for family and work lives and inequalities.
