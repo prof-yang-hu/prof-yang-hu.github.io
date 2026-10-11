@@ -14,23 +14,23 @@ author_display: false
 # Profile links shown under the photo on the home page
 profile_links:
   - name: UCL profile
+    icon: university
     url: https://profiles.ucl.ac.uk/103548-yang-hu
-    url: ...
   - name: Google Scholar
+    icon: googlescholar
     url: https://scholar.google.com/citations?user=FTytb8MAAAAJ&hl=en
-    url: ...
   - name: ResearchGate
+    icon: researchgate
     url: https://www.researchgate.net/profile/Yang_Hu44
-    url: ...
   - name: LinkedIn
+    icon: linkedin
     url: https://www.linkedin.com/in/yang-hu-b51616135/
-    url: ...
   - name: Weibo
+    icon: weibo
     url: https://www.weibo.com/u/2132879407
-    url: ...
   - name: RedNote
+    icon: rednote
     url: https://www.xiaohongshu.com/user/profile/67611f9e00000000180145eb
-    url: ...
     
 
 # Extra links in the top menu (open in a new tab)
