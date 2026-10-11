@@ -104,3 +104,10 @@ strong{
  html{
      font-size: 87.5%;
    }
+
+@media (min-width: 45em){
+     #top .about-col-2{
+       font-size: 1.25rem;
+       line-height: 2rem;
+     }
+   }
