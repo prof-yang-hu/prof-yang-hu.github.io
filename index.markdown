@@ -1,6 +1,8 @@
 ---
 layout: about
-title: Yang Hu – Associate Professor in Sociology, UCL
+title:
+seo:
+  title: Yang Hu, UCL
 redirect_from:
   - /home
   - /home/
