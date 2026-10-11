@@ -17,9 +17,13 @@ layout: default
         {% include _icons/email.html username=site.email %}
       </li>
       {% endif %}
+    </ul>
+
+    <ul class="contact-list profile-links">
       {% for link in site.profile_links %}
+      {% assign icon_file = link.icon | default: "website" | append: ".svg" %}
       <li>
-        <a target="_blank" href="{{ link.url }}"><span class="icon icon--website">{% include _icons/website.svg %}</span><span class="username">{{ link.name }}</span></a>
+        <a target="_blank" href="{{ link.url }}"><span class="icon icon--{{ link.icon }}">{% include _icons/{{ icon_file }} %}</span><span class="username">{{ link.name }}</span></a>
       </li>
       {% endfor %}
     </ul>
