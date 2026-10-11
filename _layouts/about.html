@@ -14,7 +14,8 @@ layout: default
     <ul class="contact-list profile-links">
       {% if site.email %}
       <li>
-        {% include _icons/email.html username=site.email %}
+         {% capture email_icon %}{% include _icons/email.svg %}{% endcapture %}
+           <a href="mailto:{{ site.email }}" title="Email"><span class="icon icon--email">{{ email_icon | strip }}</span><span class="username">contact</span></a>
       </li>
       {% endif %}
     </ul>
