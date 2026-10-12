@@ -11,23 +11,23 @@ permalink: /media/
 
 Yang writes op-eds for both English and Chinese media outlets to engage with public debates on issues pertaining to gender, work and the family. A selected list:
 
-- Sarma, K. & Hu, Y. (27/03/2026). [How can housework be violent?](https://gendersociety.wordpress.com/2026/03/27/how-can-housework-be-violent/) *Gender & Society blog*.
-- Qian, Y. & Hu, Y. (19/01/2025). [Why 'sexual inconsistency' can make unhappy relationships](https://theconversation.com/why-sexual-inconsistency-can-make-unhappy-relationships-246221). *The Conversation*.
-- Qian, Y. & Hu, Y. (09/05/2023). [Mothers' education has a powerful role shaping their children's futures](https://theconversation.com/mothers-education-has-a-powerful-role-shaping-their-childrens-futures-203539). *The Conversation*.
+- Sarma, K. & **Hu, Y.** (27/03/2026). [How can housework be violent?](https://gendersociety.wordpress.com/2026/03/27/how-can-housework-be-violent/) *Gender & Society blog*.
+- Qian, Y. & **Hu, Y.** (19/01/2025). [Why 'sexual inconsistency' can make unhappy relationships](https://theconversation.com/why-sexual-inconsistency-can-make-unhappy-relationships-246221). *The Conversation*.
+- Qian, Y. & **Hu, Y.** (09/05/2023). [Mothers' education has a powerful role shaping their children's futures](https://theconversation.com/mothers-education-has-a-powerful-role-shaping-their-childrens-futures-203539). *The Conversation*.
 - Hu, Y. (06/04/2023). [What is 'eldest daughter syndrome' and how can we fix it?](https://theconversation.com/what-is-eldest-daughter-syndrome-and-how-can-we-fix-it-202016) *The Conversation*. (Translated into [Spanish](https://theconversation.com/que-es-el-sindrome-de-la-hija-mayor-y-como-solucionarlo-214244) by The Conversation)
-- Qian, Y. (钱岳) & Hu, Y. (胡扬) (22/03/2023). [从“拼爹”到“拼妈”：“教育扩张”撞上“性别革命”](https://mp.weixin.qq.com/s/qgcFGJ3UEOph9BLbmk07nw). 知识分子.
-- Hu, Y. (胡扬) (31/07/2021). [家里谁管钱？家庭关系里的金钱、性别、权力和不平等](https://mp.weixin.qq.com/s/bW4tBjLwHLSCFlM5w-K0dg). 婚姻家庭研究.
-- Tu, M-W (屠梦薇), Hu, Y. (胡扬), & Xu, L-L. (许玲玲). [疫情留学回家路：解锁跨国家庭应急新功能](https://mp.weixin.qq.com/s/BJvIJhxEPBArubPWnRdMBw). 缪斯夫人.
-- Hu, Y. (17/07/2020). [Black, Asian and other minority groups are more likely to have lost their jobs in lockdown – new research](https://theconversation.com/black-asian-and-other-minority-groups-are-more-likely-to-have-lost-their-jobs-in-lockdown-new-research-142754). *The Conversation*.
-- Hu, Y. (胡扬) (07/08/2019). [谁来做家务？亲密关系里的“权力游戏”](https://www.thepaper.cn/newsDetail_forward_4091867). 澎湃新闻.
-- Zhao, M-Y (赵梦瑶), & Hu, Y. (胡扬) (03/06/2019). [户籍制度下的人口流动，对中国大学生的起薪有什么影响？](https://mp.weixin.qq.com/s/Z14hT8q4iJycom285NH5-g) 知识分子.
-- Hu, Y. (胡扬) (07/04/2018). [中国家庭中的性别不平等：算上孩子](https://mp.weixin.qq.com/s/xanRDakPhElqKrU8y7M4tg). 知识分子.
-- Hu, Y. (02/02/2018). [Domestic gender inequalities in China: Count children in](https://cpianalysis.org/2018/02/02/domestic-gender-inequalities-in-china-count-children-in/). *The Asia Dialogue*.
-- Hu, Y. (胡扬) (29/05/2017). [社会经济不平等下的“蜗居”与心理健康](https://mp.weixin.qq.com/s?__biz=MzA5MzM0MzU1NQ==&mid=2650283315&idx=1&sn=5d521a4a88cfc502d1ffc117dbf748ef). 定量群学.
-- Hu, Y. (04/04/2017). [‘Hukou’, and what birthplace can still mean for marriage in China](https://theconversation.com/hukou-and-what-birthplace-can-still-mean-for-marriage-in-china-75032). *The Conversation*.
-- Hu, Y. (24/10/2016). [The dangers of being a bridesmaid in China mean some brides now hire professionals](https://theconversation.com/the-dangers-of-being-a-bridesmaid-in-china-mean-some-brides-now-hire-professionals-65589). *The Conversation* (a most-read article in The Conversation UK: > 6 million reads).
-- Hu, Y. (12/05/2016). [Why rice growers in China are more sexually liberal than wheat growers](https://theconversation.com/why-rice-growers-in-china-are-more-sexually-liberal-than-wheat-growers-58545). *The Conversation*.
-- Hu, Y. & Coulter, R. (08/01/2016). [Living apart together and cohabitation intentions in Britain](http://www.openpop.org/?p=1284). *OpenPop*.
+- Qian, Y. (钱岳) & **Hu, Y.** (胡扬) (22/03/2023). [从“拼爹”到“拼妈”：“教育扩张”撞上“性别革命”](https://mp.weixin.qq.com/s/qgcFGJ3UEOph9BLbmk07nw). 知识分子.
+- **Hu, Y.** (胡扬) (31/07/2021). [家里谁管钱？家庭关系里的金钱、性别、权力和不平等](https://mp.weixin.qq.com/s/bW4tBjLwHLSCFlM5w-K0dg). 婚姻家庭研究.
+- Tu, M-W (屠梦薇), **Hu, Y.** (胡扬), & Xu, L-L. (许玲玲). [疫情留学回家路：解锁跨国家庭应急新功能](https://mp.weixin.qq.com/s/BJvIJhxEPBArubPWnRdMBw). 缪斯夫人.
+- **Hu, Y.** (17/07/2020). [Black, Asian and other minority groups are more likely to have lost their jobs in lockdown – new research](https://theconversation.com/black-asian-and-other-minority-groups-are-more-likely-to-have-lost-their-jobs-in-lockdown-new-research-142754). *The Conversation*.
+- **Hu, Y.** (胡扬) (07/08/2019). [谁来做家务？亲密关系里的“权力游戏”](https://www.thepaper.cn/newsDetail_forward_4091867). 澎湃新闻.
+- Zhao, M-Y (赵梦瑶), & **Hu, Y.** (胡扬) (03/06/2019). [户籍制度下的人口流动，对中国大学生的起薪有什么影响？](https://mp.weixin.qq.com/s/Z14hT8q4iJycom285NH5-g) 知识分子.
+- **Hu, Y.** (胡扬) (07/04/2018). [中国家庭中的性别不平等：算上孩子](https://mp.weixin.qq.com/s/xanRDakPhElqKrU8y7M4tg). 知识分子.
+- **Hu, Y.** (02/02/2018). [Domestic gender inequalities in China: Count children in](https://cpianalysis.org/2018/02/02/domestic-gender-inequalities-in-china-count-children-in/). *The Asia Dialogue*.
+- **Hu, Y.** (胡扬) (29/05/2017). [社会经济不平等下的“蜗居”与心理健康](https://mp.weixin.qq.com/s?__biz=MzA5MzM0MzU1NQ==&mid=2650283315&idx=1&sn=5d521a4a88cfc502d1ffc117dbf748ef). 定量群学.
+- **Hu, Y.** (04/04/2017). [‘Hukou’, and what birthplace can still mean for marriage in China](https://theconversation.com/hukou-and-what-birthplace-can-still-mean-for-marriage-in-china-75032). *The Conversation*.
+- **Hu, Y.** (24/10/2016). [The dangers of being a bridesmaid in China mean some brides now hire professionals](https://theconversation.com/the-dangers-of-being-a-bridesmaid-in-china-mean-some-brides-now-hire-professionals-65589). *The Conversation* (a most-read article in The Conversation UK: > 6 million reads).
+- **Hu, Y.** (12/05/2016). [Why rice growers in China are more sexually liberal than wheat growers](https://theconversation.com/why-rice-growers-in-china-are-more-sexually-liberal-than-wheat-growers-58545). *The Conversation*.
+- **Hu, Y.** & Coulter, R. (08/01/2016). [Living apart together and cohabitation intentions in Britain](http://www.openpop.org/?p=1284). *OpenPop*.
 
 ### Media coverage
 
