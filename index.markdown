@@ -2,7 +2,7 @@
 layout: about
 title:
 seo:
-  title: Yang Hu, UCL
+  title: Yang Hu @UCL
 redirect_from:
   - /home
   - /home/
