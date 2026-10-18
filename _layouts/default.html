@@ -22,6 +22,19 @@
     });
   </script>
 
+   {% if page.url == "/" %}
+     <script type="application/ld+json">
+     {
+       "@context": "https://schema.org",
+       "@type": "WebSite",
+       "name": "Yang Hu | UCL",
+       "alternateName": ["Yang Hu | UCL", "yanghu.co.uk"],
+       "url": "https://www.yanghu.co.uk/"
+     }
+     </script>
+     {% endif %}
+     <meta property="og:site_name" content="Yang Hu">
+
   <body id="top">
 
     {% include header.html %}
