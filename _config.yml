@@ -31,12 +31,6 @@ profile_links:
   - name: RedNote
     icon: rednote
     url: https://www.xiaohongshu.com/user/profile/67611f9e00000000180145eb
-    
-
-# Extra links in the top menu (open in a new tab)
-nav_ext_links:
-  - name: Publications
-    url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=FTytb8MAAAAJ&pagesize=80&sortby=pubdate
 
 # Build settings
 remote_theme: gaalcaras/academic
