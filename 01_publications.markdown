@@ -80,9 +80,9 @@ A full and up-to-date list is also available on [Google Scholar](https://scholar
   <li><strong>Hu, Y.</strong> (2015). Gender and children's housework time in China: Examining behavior modeling in context. <a href="https://doi.org/10.1111/jomf.12225" target="_blank"><em>Journal of Marriage and Family</em></a>.</li>
 </ol>
 
-### Book
+### Book 
 
-<li><strong>Hu, Y.</strong> (2016). <a href="https://doi.org/10.1007/978-3-319-29281-6" target="\_blank"><em>Chinese-British intermarriage: Disentangling gender and ethnicity</em></a>. Palgrave Macmillan.</li>
+<ol reversed> <li><strong>Hu, Y.</strong> (2016). <a href="https://doi.org/10.1007/978-3-319-29281-6" target="\_blank"><em>Chinese-British intermarriage: Disentangling gender and ethnicity</em></a>. Palgrave Macmillan.</li> </ol>
 
 ### Book chapters
 
