@@ -12,7 +12,7 @@ A full and up-to-date list is also available on [Google Scholar](https://scholar
 ### Journal articles
 
 <ol reversed>
-  <li><strong>Hu, Y.</strong>, Siebert, A., Freeman, C.B., Boakye, L., Ceccato F., Galindo, A., &amp; Woo, K. (in press). Global classrooms: Rethinking global sociology education. <a href="https://journals.sagepub.com/home/tso" target="_blank"><em>Teaching Sociology</em></a>.</li>
+  <li><strong>Hu, Y.</strong>, Siebert, A., Freeman, C.B., Boakye, L., Ceccato, F., Galindo, A., &amp; Woo, K. (in press). Global classrooms: Rethinking global sociology education. <a href="https://journals.sagepub.com/home/tso" target="_blank"><em>Teaching Sociology</em></a>.</li>
   <li><strong>Hu, Y.</strong>, &amp; Qian, Y. (in press). Work, masculinity, and femininity: New evidence across 31 countries. <a href="https://journals.sagepub.com/home/gas" target="_blank"><em>Gender & Society</em></a>.</li>
   <li>Qian, Y., &amp; <strong>Hu, Y.</strong> (2026, joint first author). Living-apart marriage in China: Trends, educational gradient, and well-being implications. <a href="https://discovery.ucl.ac.uk/id/eprint/10230443" target="_blank"><em>Demographic Research</em></a>.</li>
   <li>Nehring, D., &amp; <strong>Hu, Y.</strong> (2026). Fragile transnationalism: Rethinking migrant transnationalism for a post-neoliberal world. <a href="https://doi.org/10.1177/01979183261484957" target="_blank"><em>International Migration Review</em></a>.</li>
