@@ -33,6 +33,7 @@ Yang writes op-eds for both English and Chinese media outlets to engage with pub
 
 Yang is experienced in working with the media to disseminate findings from his research to the general public. His research has received extensive coverage by over 200 media outlets around the world, including the BBC, Guardian, Telegraph, CNN, ABC, CBS, Global Times, iNews, Yahoo!, Huffington Post, CTV, etc. Recent selected media reports (last updated: 1 March 2026):
 
+- 05/08/2026, Time Magazine: [Can AI free Women from the mental load of caregiving?](https://time.com/article/2026/08/05/can-ai-free-women-from-the-mental-load-of-caregiving-/)
 - 18/02/2026, The Telegraph: [I moved out of the house I shared with a ‘miserable man’. It saved our relationship](https://www.telegraph.co.uk/news/2026/02/18/moved-out-of-house-shared-with-miserable-man/)
 - 24/01/2025, The Guardian: [The older couples living apart, together: ‘We don’t have to deal with the domestic argy-bargy’](https://www.theguardian.com/lifeandstyle/2025/jan/25/the-older-couples-living-apart-together-we-dont-have-to-deal-with-the-domestic-argy-bargy)
 - 06/01/2025, The Telegraph: [‘We’re married but don’t live together – we’d drive each other mad’](https://www.telegraph.co.uk/news/2025/01/06/living-apart-together-married-couple/)
